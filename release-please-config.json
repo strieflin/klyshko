@@ -2,15 +2,19 @@
   "bump-minor-pre-major": true,
   "packages": {
     "klyshko-mp-spdz": {
+      "package-name": "klyshko-mp-spdz",
       "release-type": "simple"
     },
     "klyshko-operator": {
+      "package-name": "klyshko-operator",
       "release-type": "go"
     },
     "klyshko-operator/charts/klyshko-operator": {
+      "package-name": "klyshko-operator-helm-chart",
       "release-type": "helm"
     },
     "klyshko-provisioner": {
+      "package-name": "klyshko-provisioner",
       "release-type": "simple"
     }
   }
