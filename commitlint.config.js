@@ -8,10 +8,10 @@ module.exports = {
             2,
             "always",
             [
-                "mp-spdz",
-                "operator",
-                "operator-helm-chart",
-                "provisioner"
+                "klyshko-mp-spdz",
+                "klyshko-operator",
+                "klyshko-operator-helm-chart",
+                "klyshko-provisioner"
             ]
         ]
     }
