@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/strieflin/klyshko/compare/operator-helm-chart-v0.1.0...operator-helm-chart-v0.1.1) (2023-03-09)
+
+
+### Bug Fixes
+
+* **operator-helm-chart:** blub ([16534ea](https://github.com/strieflin/klyshko/commit/16534ea280063fc7316888be3b89b9f9c9e6dddc))
+
 ## [0.1.0](https://github.com/strieflin/klyshko/compare/operator-helm-chart-v0.0.1...operator-helm-chart-v0.1.0) (2023-03-09)
 
 
