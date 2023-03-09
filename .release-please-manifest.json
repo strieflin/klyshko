@@ -1,6 +1,6 @@
 {
-  "klyshko-mp-spdz": "0.2.0",
-  "klyshko-operator": "0.2.0",
-  "klyshko-operator/charts/klyshko-operator": "0.2.0",
-  "klyshko-provisioner": "0.2.0"
+  "klyshko-mp-spdz": "0.3.0",
+  "klyshko-operator": "0.3.0",
+  "klyshko-operator/charts/klyshko-operator": "0.3.0",
+  "klyshko-provisioner": "0.3.0"
 }
