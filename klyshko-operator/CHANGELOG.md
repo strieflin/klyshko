@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/strieflin/klyshko/compare/klyshko-operator-v0.2.0...klyshko-operator-v0.3.0) (2023-03-09)
+
+
+### Features
+
+* **klyshko-operator:** waha ([6eb2058](https://github.com/strieflin/klyshko/commit/6eb205826f2aa32405aa568eec6b370fec564b28))
+
 ## [0.2.0](https://github.com/strieflin/klyshko/compare/klyshko-operator-v0.1.1...klyshko-operator-v0.2.0) (2023-03-09)
 
 
